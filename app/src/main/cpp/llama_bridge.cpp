@@ -36,7 +36,7 @@ Java_com_example_localmind_LlamaBridge_generate(
 
     // 2. Setup Context
     llama_context_params ctx_params = llama_context_default_params();
-    ctx_params.n_ctx = 512;
+    ctx_params.n_ctx = 1536;
     ctx_params.n_threads = 4; // Optimized for the Snapdragon 7s Gen 2
     llama_context *ctx = llama_new_context_with_model(model, ctx_params);
 
