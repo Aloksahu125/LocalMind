@@ -2,7 +2,7 @@
 
 > **𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐚𝐧 𝐀𝐈 𝐭𝐡𝐚𝐭 𝐰𝐨𝐫𝐤𝐬 𝐰𝐡𝐞𝐫𝐞 𝐭𝐡𝐞 𝐢𝐧𝐭𝐞𝐫𝐧𝐞𝐭 𝐝𝐨𝐞𝐬𝐧’𝐭.**
 
-LocalMind is an Android-based EdTech application built during a 48-hour hackathon. It brings the power of Generative AI directly to the student's device. By combining a highly optimized, locally running Large Language Model with Retrieval-Augmented Generation (RAG), LocalMind acts as an interactive tutor grounded strictly in textbook data.
+LocalMind is an Android-based EdTech application built during a 24-hour hackathon. It brings the power of Generative AI directly to the student's device. By combining a highly optimized, locally running Large Language Model with Retrieval-Augmented Generation (RAG), LocalMind acts as an interactive tutor grounded strictly in textbook data.
 
 ## ✨ Key Features
 
